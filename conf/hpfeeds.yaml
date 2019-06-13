@@ -1,0 +1,8 @@
+- name: hpfeeds 
+  config: 
+    server: 'http://188.166.119.73'
+    port: 10000 
+    ident: '89af37a0-8dee-11e9-920e-3279402ef90b' 
+    secret: 'urnanisbald' 
+    # dynip_resolve: enable to lookup the sensor ip through a webservice 
+    #dynip_resolve: "http://hpfriends.honeycloud.net/ip"
